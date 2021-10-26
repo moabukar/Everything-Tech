@@ -1,6 +1,6 @@
 # DevOps-101-Resources
 
-A collection of selected online resources that will help prepare you for the ever-evolving world of DevOps.
+A collection of selected online resources that will help prepare you for the ever-evolving world of DevOps. The aim of this public repository is to provide a list of learning resources, advice and project samples to those who are new to the world of DevOps. Contributions are welcome :) 
 
 - If you wish to contribute, please raise an issue, or make a pull request for fixes, new additions, or updates. Thank you!
 
