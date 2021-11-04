@@ -15,7 +15,7 @@ A collection of selected online resources that will help prepare you for the eve
 ### Linux
 
 - [Linux Mastery - Paid](https://www.udemy.com/course/linux-mastery/)
-- https://www.youtube.com/watch?v=wBp0Rb-ZJak (Free)
+- [The Complete Linux Course: Beginner to Power User! - FREE] (https://www.youtube.com/watch?v=wBp0Rb-ZJak)
 
 ### Python
 
