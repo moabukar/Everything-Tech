@@ -21,6 +21,7 @@ A collection of selected online resources that will help prepare you for the eve
 - https://www.udemy.com/course/complete-python-bootcamp/ (Paid) (SUPPLEMENTARY)
 - https://www.youtube.com/watch?v=rfscVS0vtbw (FREE) (RECOMMENDED)
 - https://www.youtube.com/watch?v=t8pPdKYpowI (FREE)
+- https://pythoninstitute.org/certification/ (FREE/PAID)
 
 ### Amazon Web Services (AWS) :
 - https://portal.tutorialsdojo.com/product-category/aws/aws-digital-courses-2/ — AWS Digital Courses by Jon Bonso (FREE)
