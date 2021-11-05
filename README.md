@@ -1,4 +1,4 @@
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)(http://makeapullrequest.com)
 
 # DevOps-101-Resources
 
@@ -19,13 +19,6 @@ A collection of selected online resources that will help prepare you for the eve
 
 ### Python
 
-<<<<<<< HEAD
-- [Automate the Boring Stuff with Python - PAID - RECOMMENDED](https://www.udemy.com/course/automate/)
-- [COMPLETE PYTHON BOOTCAMP - PAID - SUPPLEMENTARY](https://www.udemy.com/course/complete-python-bootcamp/) (Paid) (SUPPLEMENTARY)
-- https://www.youtube.com/watch?v=rfscVS0vtbw (FREE) (RECOMMENDED)
-- https://www.youtube.com/watch?v=t8pPdKYpowI (FREE)
-- https://pythoninstitute.org/certification/ (FREE/PAID)
-=======
 - [fdfd](https://www.udemy.com/course/automate/) (Paid) (RECOMMENDED)
 
 - [COMPLETE PYTHON BOOTCAMP - PAID - SUPPLEMENTARY](https://www.udemy.com/course/complete-python-bootcamp/) 
@@ -35,7 +28,6 @@ A collection of selected online resources that will help prepare you for the eve
 - [Python Tutorial for Beginners - Learn Python in 5 Hours FULL COURSE - FREE](https://www.youtube.com/watch?v=t8pPdKYpowI) 
 
 - [Python Institute Certifications - FREE - PAID](https://pythoninstitute.org/certification/) 
->>>>>>> stage
 
 ### Amazon Web Services (AWS)
 
