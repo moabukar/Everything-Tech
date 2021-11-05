@@ -91,7 +91,7 @@ A collection of selected online resources that will help prepare you for the eve
 
 - [HashiCorp Terraform Associate Certification Course - FREE](https://www.youtube.com/watch?v=V4waklkBC38) 
 
-- [Azure DevOps: Provision API Infrastructure using Terraform - Full Course - FREE](https://www.youtube.com/watch?v=Ff0DoAmpv6w&t=6032s) — Azure DevOps with Terraform
+- [Azure DevOps: Provision API Infrastructure using Terraform - Full Course - FREE](https://www.youtube.com/watch?v=Ff0DoAmpv6w&t=6032s)
 
 - [Ifrastrcuture as Code - Playlist - FREE](https://www.youtube.com/playlist?list=PLedHPfK7UwDJdS7zTgJv8PWR9UBcPbgUO) 
 
