@@ -19,7 +19,7 @@ A collection of selected online resources that will help prepare you for the eve
 
 ### Python
 
-- [Automate the Boring Stuff with Python Programming - PAID - RECOMMENDED](https://www.udemy.com/course/automate/) (Paid) (RECOMMENDED)
+- [Automate the Boring Stuff with Python Programming - PAID - RECOMMENDED](https://www.udemy.com/course/automate/)
 
 - [COMPLETE PYTHON BOOTCAMP - PAID - SUPPLEMENTARY](https://www.udemy.com/course/complete-python-bootcamp/) 
 
