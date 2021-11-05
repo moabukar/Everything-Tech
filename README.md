@@ -19,15 +19,15 @@ A collection of selected online resources that will help prepare you for the eve
 
 ### Python
 
-- [fdfd](https://www.udemy.com/course/automate/) (Paid) (RECOMMENDED)
+- [Automate the Boring Stuff with Python Programming - PAID - RECOMMENDED](https://www.udemy.com/course/automate/) (Paid) (RECOMMENDED)
 
 - [COMPLETE PYTHON BOOTCAMP - PAID - SUPPLEMENTARY](https://www.udemy.com/course/complete-python-bootcamp/) 
 
-- [Learn Python - Full Course for Beginners Tutorial - FREE - RECOMMENDED](https://www.youtube.com/watch?v=rfscVS0vtbw) (FREE) (RECOMMENDED)
+- [Learn Python - Full Course for Beginners Tutorial - FREE - RECOMMENDED](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 - [Python Tutorial for Beginners - Learn Python in 5 Hours FULL COURSE - FREE](https://www.youtube.com/watch?v=t8pPdKYpowI) 
 
-- [Python Institute Certifications - FREE - PAID](https://pythoninstitute.org/certification/) 
+- [Python Institute Certifications](https://pythoninstitute.org/certification/) 
 
 ### Amazon Web Services (AWS)
 
@@ -41,7 +41,7 @@ A collection of selected online resources that will help prepare you for the eve
 
 - [AWS Certified Solutions Architect - Associate - PAID](https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02)
 
--  [AWS Certified Developer - Associate 2020 - FREE](https://www.youtube.com/watch?v=RrKRN9zRBWs)
+- [AWS Certified Developer - Associate 2020 - FREE](https://www.youtube.com/watch?v=RrKRN9zRBWs)
 
 - [AWS Certified Cloud Practitioner Practice Exams - PAID - EXAM PRACTICE](https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exams-amazon/) 
 
@@ -105,7 +105,7 @@ A collection of selected online resources that will help prepare you for the eve
 
 - [Docker and Kubernetes Tutorial - Full Course - FREE](https://www.youtube.com/watch?v=bhBSlnQcq2k)
 
-- [Kubernetes Tutorial for Beginners - K8s - FREE ](https://www.youtube.com/watch?v=X48VuDVv0do) —
+- [Kubernetes Tutorial for Beginners - K8s - FREE ](https://www.youtube.com/watch?v=X48VuDVv0do)
 
 - [Docker and Kubernetes: The Complete Guide - FREE](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) 
 
