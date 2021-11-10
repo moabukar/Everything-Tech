@@ -149,6 +149,10 @@ Don't forget to give the project a star! Thanks again!
 
 - [Azure Kubernetes Service with Azure DevOps and Terraform - PAID - AKS](https://www.udemy.com/course/azure-kubernetes-service-with-azure-devops-and-terraform/) 
 
+### Serverless
+
+- [Link 1]()
+
 ### More-open source tools and more things to consider learning
 
 - [Free Practice Exams for AWS, GCP and Azure -  Free practice exams video by Andrew Brown - PAID](https://www.youtube.com/watch?v=J4al_SZ6p5g) 
