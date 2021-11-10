@@ -1,1 +1,0 @@
-# CloudFormation Resources & Projects
