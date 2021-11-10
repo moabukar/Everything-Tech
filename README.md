@@ -6,9 +6,27 @@
   <img width="360" src="roadmap.jpeg">
 </p>
 
-A collection of selected online resources that will help prepare you for the ever-evolving world of DevOps. The aim of this public repository is to provide a list of learning resources, advice and project samples to those who are new to the world of DevOps. Contributions are welcome :)
+<!-- ABOUT THE PROJECT -->
+## About The Project
 
-- If you wish to contribute, please raise an issue, or make a pull request for fixes, new additions, or updates. Thank you!
+A collection of selected online resources that will help prepare you for the ever-evolving world of Software Engineering & DevOps. The aim of this public repository is to provide a list of learning resources, advice and project samples to those who are new to the world of DevOps. Contributions are welcome :)
+
+## Who is this for?
+
+Everyone. This is a platform which will enable individuals across all levels to learn new technologies and/or validate their existing knowledge.
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Don't forget to give the project a star! Thanks again!
+
+1. Fork the project
+2. Create your branch (`git checkout -b patch`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin patch`)
+5. Raise a pull request
 
 ## FUNDAMENTALS
 
@@ -61,7 +79,7 @@ A collection of selected online resources that will help prepare you for the eve
 
 ### Google Cloud Platform (GCP)
 
--  [Google Cloud Associate Cloud Engineer - PAID](https://training.antonit.com/p/google-cloud-associate-cloud-engineer)
+- [Google Cloud Associate Cloud Engineer - PAID](https://training.antonit.com/p/google-cloud-associate-cloud-engineer)
 
 - [Google Cloud Digital Leader Certification Course - FREE](https://www.youtube.com/watch?v=UGRDM86MBIQ)
 
@@ -105,7 +123,7 @@ A collection of selected online resources that will help prepare you for the eve
 
 - [Docker and Kubernetes Tutorial - Full Course - FREE](https://www.youtube.com/watch?v=bhBSlnQcq2k)
 
-- [Kubernetes Tutorial for Beginners - K8s - FREE ](https://www.youtube.com/watch?v=X48VuDVv0do)
+- [Kubernetes Tutorial for Beginners - K8s - FREE](https://www.youtube.com/watch?v=X48VuDVv0do)
 
 - [Docker and Kubernetes: The Complete Guide - FREE](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/) 
 
