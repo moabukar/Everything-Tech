@@ -46,8 +46,6 @@ Don't forget to give the project a star! Thanks again!
 
 - [Python Tutorial for Beginners - Learn Python in 5 Hours FULL COURSE - FREE](https://www.youtube.com/watch?v=t8pPdKYpowI) 
 
-- [Python Institute Certifications](https://pythoninstitute.org/certification/) 
-
 ### Amazon Web Services (AWS)
 
 - [AWS Digital Courses by Jon Bonso (FREE)](https://portal.tutorialsdojo.com/product-category/aws/aws-digital-courses-2/)
