@@ -1,5 +1,12 @@
 # Kubernetes-K8s Resources & Projects
 
+## Maintainers of the project
+
+- Name 1
+- Name 2
+
+
+
 Useful K8s commands:
 
 - kubectl run pod1 --image=nginx > runs a simple pod named "pod1" with an nginx image.
