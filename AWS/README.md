@@ -1,5 +1,10 @@
 # AWS Resources
 
+## Maintainers of the project
+
+- Name 1
+- Name 2
+
 ## Setup credentials to access AWS at a programmatic level
 
 ### IAM setup
