@@ -1,7 +1,11 @@
 # General learning projects here
 
+## Contributors to the Projects
 
-## Project lists
+- Name 1
+- Name 2
+
+### Project lists
 - 1 : Python Project 1 - scraping data from IMDB and dockerising application
 
 - [2] : Empty
