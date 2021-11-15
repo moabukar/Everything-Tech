@@ -33,6 +33,8 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the branch (`git push origin patch`)
 5. Raise a pull request
 
+## Links to Resources
+
 ## FUNDAMENTALS
 
 ### Linux
