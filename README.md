@@ -1,7 +1,7 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-# DevOps-101-Resources
+# Everything Tech Resources & Projects
 
 <p align="center">
   <img width="360" src="roadmap.jpeg">
@@ -10,7 +10,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A collection of selected online resources that will help prepare you for the ever-evolving world of Software Engineering & DevOps. The aim of this public repository is to provide a list of learning resources, advice and project samples to those who are new to the world of DevOps. Contributions are welcome :)
+A collection of selected online resources that will help prepare you for the ever-evolving world of Tech. The aim of this public repository is to provide a list of learning resources, advice and project samples to those who are new to the world of Software Engineering, DevOps, Cloud, Cyber Security, Data Science/Engineering, Machine Learning. Contributions are welcome :)
 
 ## Who is this for?
 
