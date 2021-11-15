@@ -10,7 +10,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A collection of selected online resources that will help prepare you for the ever-evolving world of Tech. The aim of this public repository is to provide a list of learning resources, advice and project samples to those who are new to the world of Software Engineering, DevOps, Cloud, Cyber Security, Data Science/Engineering, Machine Learning. Contributions are welcome :)
+Coming from an engineering background and looking to up skill yourself on a new field can be difficult. So I’ve decided to embark on a project that is dear to my heart. ♥️
+
+This repository will contain a list of FREE resources, projects and hands-on exercises for you to attempt and up skill yourself so that you can find a role in your respective field. This project will be focused on those trying to enter the Tech field (like Software Engineering 👨‍💻, DevOps 🛠, Cloud 🌩, Cyber Security 🛡, Data Science/Engineering 📊, Machine Learning etc 🤖) 🆓
+
+The project will be maintained by the community FOR the community! 🚀  We currently have experts 😎 in the field who are already contributing to this project.
 
 ## Who is this for?
 
@@ -20,7 +24,7 @@ Everyone. This is a platform which will enable individuals across all levels to 
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+If you have a suggestion or project idea that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the project
