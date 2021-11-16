@@ -55,3 +55,8 @@ Look no further! We will be covering core distributed computing concepts which w
 - Security and much more!
 
 _Good luck_
+
+## Maintainers of this repo
+
+- Abdirahman Jama
+- Nikhil Bharrat

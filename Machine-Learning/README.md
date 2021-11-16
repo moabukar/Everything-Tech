@@ -1,6 +1,7 @@
 # Machine Leanring Resources & Projects
 
-## Maintainers of the project
+## Maintainers of this repo
 
-- Name 1
+- Dr Noureddin Sadawi
 - Name 2
+- ..
