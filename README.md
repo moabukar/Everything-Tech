@@ -116,7 +116,7 @@ Don't forget to give the project a star! Thanks again!
 
 - [Azure DevOps: Provision API Infrastructure using Terraform - Full Course - FREE](https://www.youtube.com/watch?v=Ff0DoAmpv6w&t=6032s)
 
-- [Ifrastrcuture as Code - Playlist - FREE](https://www.youtube.com/playlist?list=PLedHPfK7UwDJdS7zTgJv8PWR9UBcPbgUO) 
+- [Infrastrcuture as Code - Playlist - FREE](https://www.youtube.com/playlist?list=PLedHPfK7UwDJdS7zTgJv8PWR9UBcPbgUO) 
 
 ### Containers (Docker and Kubernetes aka K8s)
 
