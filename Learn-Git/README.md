@@ -1,6 +1,6 @@
 # Learn Git Resources & Projects
 
-## Maintainers of the project
+## Maintainers of this repo
 
 - Mohamed
 - Name 2

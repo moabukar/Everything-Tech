@@ -1,7 +1,6 @@
-
 # Data Science & Engineering Resources
 
-## Maintainers of the project
+## Maintainers of this repo
 
-- Name 1
-- Name 2
+- Muhammad Yahya
+- Ishaq Amin

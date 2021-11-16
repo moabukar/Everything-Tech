@@ -1,4 +1,4 @@
-# Terraform Resources & Projects
+# Infrastructure as Code Resources & Projects
 
 ## Maintainers of this repo
 
