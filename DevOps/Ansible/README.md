@@ -2,6 +2,5 @@
 
 ## Maintainers of the project
 
-- Name 1
+- Helal Khan
 - Name 2
-
