@@ -1,0 +1,12 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: secenv
+spec:
+  containers:
+  - name: container1
+    image: nginx
+    imagePullPolicy: IfNotPresent
+    envFrom:
+    - secretRef:
+        name: myfirstsecret

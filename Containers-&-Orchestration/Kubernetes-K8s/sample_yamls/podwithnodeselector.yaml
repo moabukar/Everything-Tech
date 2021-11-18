@@ -1,0 +1,12 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: podwithnodeselector
+spec:
+  nodeSelector:
+    typeofdisk: ssd
+  containers:
+    - name: c1
+      image: alihasanahmedkhan/flag:latest
+      ports:
+      - containerPort: 80

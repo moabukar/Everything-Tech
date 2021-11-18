@@ -1,0 +1,14 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: readiness-pod
+spec:
+  containers:
+  - name: container-rp
+    image: alihasanahmedkhan/helloworld:latest
+    ports:
+    - containerPort: 80
+    readinessProbe:
+      httpGet:
+        port: 80
+        path: /

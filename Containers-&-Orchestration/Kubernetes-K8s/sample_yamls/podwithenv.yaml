@@ -1,0 +1,14 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: podwithenv
+spec:
+  containers:
+  - name: container1
+    image: nginx
+    imagePullPolicy: IfNotPresent
+    env:
+    - name: USERNAME
+      value: alihasanahmedkhan
+    - name: COURSE
+      value: Kubernetes

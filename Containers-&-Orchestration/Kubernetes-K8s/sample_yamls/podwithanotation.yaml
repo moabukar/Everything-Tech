@@ -1,0 +1,13 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: podwithannotation
+  annotations:
+    createdby: "Ali Hassan"
+    email: alihasanahmedkhan@gmail.com
+spec:
+  containers:
+  - name: newc1
+    image: alihasanahmedkhan/flag:latest
+    ports:
+    - containerPort: 80

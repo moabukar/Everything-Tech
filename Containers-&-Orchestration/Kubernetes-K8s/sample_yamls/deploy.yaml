@@ -1,0 +1,22 @@
+kind: Deployment
+apiVersion: apps/v1
+metadata:
+  name: deployexample
+spec:
+  replicas: 4
+  selector:
+    matchExpressions:
+    - key: app
+      operator: In
+      values:
+      - frontend
+
+  template:
+    metadata:
+      labels:
+        app: frontend
+    spec:
+      containers:
+      - name: container1
+        image: alihasanahmedkhan/helloworld
+        imagePullPolicy: IfNotPresent
