@@ -1,0 +1,14 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: readiness-pod-witherror
+spec:
+  containers:
+  - name: container-rp-witherror
+    image: alihasanahmedkhan/helloworld:latest
+    ports:
+    - containerPort: 80
+    readinessProbe:
+      httpGet:
+        port: 80
+        path: /test

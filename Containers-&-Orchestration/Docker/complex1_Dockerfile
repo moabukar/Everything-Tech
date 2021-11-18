@@ -1,0 +1,17 @@
+from alpine
+
+label maintainer = "ali@gmail.com"
+
+run apk add --update node.js nodejs -npm
+
+copy . /src
+
+workdir /src
+
+run npm install
+
+env createdby="Ali"
+
+expose 8080
+
+entrypoint ["node", "./app.js"]

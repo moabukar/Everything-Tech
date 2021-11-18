@@ -1,0 +1,15 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: pod-pv
+spec:
+  volumes:
+  - name: pv-vol
+    persistentVolumeClaim:
+      claimName: pvc
+  containers:
+  - name: container1
+    image: alihasanahmedkhan/logfile_nodejs
+    volumeMounts:
+    - name: pv-vol
+      mountPath: /data

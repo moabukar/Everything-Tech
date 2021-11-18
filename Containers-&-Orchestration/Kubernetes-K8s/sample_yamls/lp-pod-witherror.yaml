@@ -1,0 +1,14 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: lp-pod-witherror
+spec:
+  containers:
+  - name: container1
+    image: alihasanahmedkhan/hi:latest
+    ports:
+    - containerPort: 80
+    livenessProbe:
+      exec:
+        command:
+        - cat abc.txt

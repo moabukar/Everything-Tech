@@ -1,0 +1,23 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: my-pod-with-vol
+spec:
+  volumes:
+  - name: shared-dir
+    emptyDir: {}
+  containers:
+  - name: container1
+    image: alihasanahmedkhan/logfile_nodejs
+    ports:
+    - containerPort: 8080
+    volumeMounts:
+    - name: shared-dir
+      mountPath: /data
+  - name: container2
+    image: nginx
+    ports:
+    - containerPort: 80
+    volumeMounts:
+    - name: shared-dir
+      mountPath: /var/c-two

@@ -2,5 +2,5 @@
 
 ## Maintainers of the project
 
-- Name 1
+- Ali Hassan Ahmed Khan
 - Name 2

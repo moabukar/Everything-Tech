@@ -1,0 +1,19 @@
+kind: CronJob
+apiVersion: batch/v1
+metadata:
+  name: cj
+spec:
+  schedule: "* * * * *"
+  jobTemplate:
+    spec:
+      template:
+        metadata:
+          name: cj_job_resource
+          labels:
+            app: cjexample
+        spec:
+          containers:
+          - name: cjcontainer
+            image: docker/whalesay
+            command: ["cowsay", "CronJob Example"]
+          restartPolicy: Never

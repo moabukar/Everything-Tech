@@ -1,0 +1,14 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: podcmenv
+  labels:
+    app: envcmexample
+spec:
+  containers:
+  - name: container1
+    image: alihasanahmedkhan/node-app-image
+    imagePullPolicy: IfNotPresent
+    envFrom:
+    - configMapRef:
+        name: cmfromenv

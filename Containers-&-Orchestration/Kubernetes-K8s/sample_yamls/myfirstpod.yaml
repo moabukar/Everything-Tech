@@ -1,0 +1,11 @@
+kind: Pod
+apiVersion: v1
+metadata:
+  name: myfirstpod
+  namespace: production
+spec:
+  containers:
+  - name: container1
+    image: alihasanahmedkhan/helloworld:latest
+    ports:
+    - containerPort: 80

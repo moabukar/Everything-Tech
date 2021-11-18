@@ -1,0 +1,22 @@
+kind: ReplicaSet
+apiVersion: apps/v1
+metadata:
+  name: myrs
+spec:
+  replicas: 3
+  selector:
+    matchExpressions:
+    - key: app
+      operator: In
+      values:
+      - rsexample
+  template:
+    metadata:
+      labels:
+        app: rsexample
+    spec:
+      containers:
+      - name: rscontainer
+        image: alihasanahmedkhan/helloworld:latest
+        ports:
+        - containerPort: 80
