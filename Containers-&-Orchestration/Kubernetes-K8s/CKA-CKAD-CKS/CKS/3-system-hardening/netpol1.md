@@ -1,0 +1,23 @@
+### Network Policy - Allow Ingress
+
+```sh
+
+vi netpol.yaml
+
+```
+
+```sh
+
+---
+apiVersion: networking.k8s.io/v1
+kind: NetworkPolicy
+metadata:
+  name: default-deny-ingress
+spec:
+  podSelector: {}
+  ingress:
+  - {}
+  policyTypes:
+  - Ingress
+
+```
