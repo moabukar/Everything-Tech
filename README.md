@@ -50,7 +50,13 @@ Don't forget to give the project a star! Thanks again!
 
 - [Learn Python - Full Course for Beginners Tutorial - FREE - RECOMMENDED](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
-- [Python Tutorial for Beginners - Learn Python in 5 Hours FULL COURSE - FREE](https://www.youtube.com/watch?v=t8pPdKYpowI) 
+- [Python Tutorial for Beginners - Learn Python in 5 Hours FULL COURSE - FREE](https://www.youtube.com/watch?v=t8pPdKYpowI)
+
+- [Python Crash Course: A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036)
+
+- [Python for Everybody (PY4E)](https://www.py4e.com/lessons)
+
+- [Python Documentaions](https://docs.python.org/)
 
 ### Amazon Web Services (AWS)
 
