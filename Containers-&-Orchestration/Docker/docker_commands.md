@@ -57,14 +57,16 @@ docker container run -d --name docker_app -p 5020:80 alihasanahmedkhan/helloworl
 
 docker build -t <custom_name> .
 
-Run that docker image:
-# docker container run --name=<container_name> -d -p 8500:80 <image_id or image_name>
+## Run that docker image:
+docker container run --name=<container_name> -d -p 8500:80 <image_id or image_name>
 
 ## Pushing Image to DockerHub:
 
 docker image push <image_name or image_id>
-			OR
-## First change the name of the image
+
+OR
+
+### First change the name of the image
 
 docker image tag <old_tag> <docker_hub_account_name>/<old_tag>
 
