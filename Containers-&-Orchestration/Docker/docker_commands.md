@@ -57,8 +57,8 @@ docker container run -d --name docker_app -p 5020:80 alihasanahmedkhan/helloworl
 
 docker build -t <custom_name> .
 
-Run that docker image:
-# docker container run --name=<container_name> -d -p 8500:80 <image_id or image_name>
+## Run that docker image:
+docker container run --name=<container_name> -d -p 8500:80 <image_id or image_name>
 
 ## Pushing Image to DockerHub:
 
