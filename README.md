@@ -22,6 +22,8 @@ Everyone. This is a platform which will enable individuals across all levels to 
 
 ## Contributing
 
+**This repo is still quite new and we are trying our best to add on resources, so please do bear with us** 
+
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion or project idea that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
