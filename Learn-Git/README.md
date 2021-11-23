@@ -3,7 +3,7 @@
 ## Maintainers of this repo
 
 - Mohamed
-- Name 2
+- Abdurahman
 - Name 3
 - ...
 
