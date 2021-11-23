@@ -3,7 +3,7 @@
 ## Maintainers of the project
 
 - Mohamed
-- Name 2
+- Abdurahman
 - Name 3
 - Name 4
 - ....
