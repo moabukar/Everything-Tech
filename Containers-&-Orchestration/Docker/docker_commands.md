@@ -14,12 +14,12 @@ docker rmi <container_id>
 
 ## Interactive Mode:
 ```
-docker run -it alihasanahmedkhan/helloworld:lastest sh
+docker run -it alihasanahmedkhan/helloworld:latest sh
 ```
 
 ## Detach Mode:
 ```
-docker run -d alihasanahmedkhan/helloworld:lastest
+docker run -d alihasanahmedkhan/helloworld:latest
 ```
 
 ## Attach to container:
