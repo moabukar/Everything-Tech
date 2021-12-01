@@ -24,7 +24,7 @@ Everyone. This is a platform which will enable individuals across all levels to 
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-We currently have a dedicated Slack workspace - if you are serious about contributing to this project. please send a message to any one of the below maintainers of this prroject and we will add you to the workspace.
+We currently have a dedicated Slack workspace - if you are serious about contributing, please send a message to any one of the below maintainers of this prroject and we will add you to the workspace.
 
 - [Mohamed](https://linkedin.com/in/mohamed-abukar)
 - [Abdirahman J](https://www.linkedin.com/in/abdirahman-jama-b3204412b)
