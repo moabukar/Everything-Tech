@@ -28,7 +28,8 @@ We currently have a dedicated Slack workspace - if you are serious about contrib
 
 - [Mohamed](https://linkedin.com/in/mohamed-abukar)
 - [Abdirahman J](https://www.linkedin.com/in/abdirahman-jama-b3204412b)
-- [Abdurahman A](https://www.linkedin.com/in/a-abukar/) or [Adam](https://www.linkedin.com/in/adam-osman-90)
+- [Adam](https://www.linkedin.com/in/adam-osman-90)
+- [Abdurahman A](https://www.linkedin.com/in/a-abukar/)
 
 **This repo is still quite new and we are working on adding as many learning resources and projects as possible, so please do bear with us** 
 
