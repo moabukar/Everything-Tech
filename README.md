@@ -7,6 +7,7 @@
   <img width="360" src="roadmap.jpeg">
 </p>
 
+## **This repo is still quite new and we are working on adding as many learning resources and projects as possible, so please do bear with us**
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
