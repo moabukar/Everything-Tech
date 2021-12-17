@@ -3,5 +3,5 @@
 ## Maintainers of this repo
 
 - Dr Noureddin Sadawi
-- Name 2
+- Abdirahman A.
 - ..
