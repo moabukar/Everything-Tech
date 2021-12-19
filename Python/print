@@ -1,0 +1,7 @@
+**Print**
+
+print(name) = Tom
+
+print("name") = name #(this will print name as you are using quotes)
+
+#The print() function prints the specified message to the screen
