@@ -1,0 +1,10 @@
+**Variable example** 
+
+name = "Tom"
+city = "London"
+
+#Name equals variable
+#Tom equals String
+
+# A Python variable is a reserved memory location to store values.
+# Strings can be created by enclosing characters inside a single quote or double-quotes.

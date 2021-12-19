@@ -1,0 +1,5 @@
+**len**
+
+print(len("adil")) = 4 (as in add 4 characters starting with binary of 0) 
+
+#len() is a built-in method in Python. The Python len() method is a built-in function that can be used to calculate the length of any iterable object.
