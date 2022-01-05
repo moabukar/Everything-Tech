@@ -16,3 +16,9 @@ func main() {
 	fmt.Println("my age: ", age)
 	fmt.Println("and my nationality: ", nationality)
 }
+
+//You can also initialize variable on the same line
+
+/*var (
+name, location, age = "Prince Oberyn", "Dorne", 32
+)*/
