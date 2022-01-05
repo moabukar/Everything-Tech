@@ -20,5 +20,5 @@ func main() {
 //You can also initialize variable on the same line
 
 /*var (
-name, location, age = "Prince Oberyn", "Dorne", 32
+name, nationality, age = "Irene ufia", "nigerian", 25
 )*/
