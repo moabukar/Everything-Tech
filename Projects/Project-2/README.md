@@ -1,3 +1,3 @@
-# Here we create a project that converts from one currency to another  
+# Here we create a project that converts degrees Celsius to degrees Fahrenheit and vice versa  
 
-# The applicaion is written in java with a graphical user interface (GUI)  
+# The applicaion is written in java  

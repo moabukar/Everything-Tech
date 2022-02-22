@@ -8,7 +8,7 @@
 ### Project lists
 - 1 : Python Project 1 - scraping data from IMDB and dockerising application
 
-- 2 : Java Project 2 - Simple currnecy converter with a GUI
+- 2 : Java Project 2 - temperature converter
 
 - [3] : Empty
 
