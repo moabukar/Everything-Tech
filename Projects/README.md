@@ -2,13 +2,13 @@
 
 ## Contributors to the Projects
 
-- Name 1
+- [Razeen Adbal Rahman](https://github.com/Razeen-Abdal-Rahman)  
 - Name 2
 
 ### Project lists
 - 1 : Python Project 1 - scraping data from IMDB and dockerising application
 
-- [2] : Empty
+- 2 : Java Project 2 - Simple currnecy converter with a GUI
 
 - [3] : Empty
 
