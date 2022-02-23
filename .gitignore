@@ -30,5 +30,5 @@ override.tf.json
 
 # Remove IDE specific files
 # vscode
-.vscode
-!.vscode/launch.json
+**/.vscode/*
+**/!.vscode/launch.json/*
