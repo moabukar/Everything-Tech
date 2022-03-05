@@ -10,7 +10,7 @@
 
 - 2 : Java Project 2 - temperature converter
 
-- [3] : Empty
+- 3 : Python Project 3 - YouTube downloader script
 
 - [4] : Empty
 
